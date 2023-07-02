@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **miguelmiguezangel@gmail.com**
 
-- ⚡ My next steps: **JavaScript, ReactJs, Node.js, SQL y NoSQL**
+- ⚡ My next steps: **JavaScript, ReactJs, Node.js, SQL and NoSQL**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
