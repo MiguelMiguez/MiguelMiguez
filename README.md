@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Miguel <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif"></h1>
-<h3 align="center">A passionate but novice web developer from Argentina</h3>
+<h3 align="center">A passionate web developer from Argentina</h3>
 
 - 🔭 I’m currently working on my **Web Developer Course by CoderHouse**
 
-- 🌱 I’m currently learning **HTML5 and CSS3**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **miguelmiguezangel@gmail.com**
 
-- ⚡ My next steps: **JavaScript, ReactJs, Node.js, SQL and NoSQL**
+- ⚡ My next steps: **ReactJs, Node.js, SQL and NoSQL**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
