@@ -34,6 +34,12 @@
   <a href="#" target="_blank"> 
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="#" target="_blank"> 
+    <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="#" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 
