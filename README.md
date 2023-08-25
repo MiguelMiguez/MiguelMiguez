@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif"></h1>
 <h3 align="center">A passionate web developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **Web Developer Course by CoderHouse**
+- 🔭 I’m currently working on my **JavaScript Course by CoderHouse**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.Js**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -30,6 +30,9 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
