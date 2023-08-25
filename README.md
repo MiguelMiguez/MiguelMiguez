@@ -31,7 +31,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
@@ -41,4 +41,4 @@
 
 [Miguel Miguez](https://github.com/MiguelMiguez)
 
-Last Edited on: 02/07/2023
+Last Edited on: 25/08/2023
