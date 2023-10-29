@@ -4,15 +4,15 @@
 </div>
 <h3 align="center">A great web developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **JavaScript Course by CoderHouse**
+- 🔭 I’m currently working on my **REACT Course by CoderHouse**
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **BACKEND**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **miguelmiguezangel@gmail.com**
 
-- ⚡ My next steps: **ReactJs, Node.js, SQL and NoSQL**
+- ⚡ My next steps: **Node.js, SQL and NoSQL**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
