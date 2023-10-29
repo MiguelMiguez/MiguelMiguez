@@ -1,6 +1,5 @@
-<div display=flex> 
+<div display="flex"> 
     <h1 align="center">Hi 👋, I'm Miguel  <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif"></h1> 
-   
 </div>
 <h3 align="center">A great web developer from Argentina</h3>
 
