@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1> <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif">
+<div>
+    <h1 align="center">Hi 👋, I'm Miguel</h1> 
+    <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif">
+</div>
 <h3 align="center">A great web developer from Argentina</h3>
 
 - 🔭 I’m currently working on my **JavaScript Course by CoderHouse**
