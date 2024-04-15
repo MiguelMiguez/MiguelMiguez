@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A great web developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **WEB PAGE AND PROJECT DIGITAL RAIN**
+- 🔭 I’m currently working on my  web page and project **DIGITAL RAIN**
 
 - 🌐 <a href="https://digitalrain.online/" target="_blank"> Digital Rain</a>
   
