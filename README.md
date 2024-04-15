@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A great web developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **REACT Course by CoderHouse**
+- 🔭 I’m currently working on my **REACT**
 
 - 🌱 I’m currently learning **BACKEND**
 
