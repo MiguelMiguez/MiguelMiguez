@@ -1,64 +1,57 @@
 <div align="center"> 
     <h1 align="center">Hi 👋, I'm Miguel</h1>
-    <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif">
-</div>
-<h3 align="center">A great web developer from Argentina</h3>
-
-- 🔭 I’m currently working on my  web page and project **DIGITAL RAIN**
-
-- 🌐 <a href="https://digitalrainreact.netlify.app/" target="_blank"> Digital Rain</a>
-  
-- 🌱 I’m currently learning **BACKEND**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **miguelmiguezangel@gmail.com**
-
-- ⚡ My next steps: **Node.js, SQL and NoSQL**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmiguez/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelmiguezangel@gmail.com)
-  
+    <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif" alt="Argentina Parrot">
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🎨 Frontend Developer | Turning ideas into seamless web experiences</h3>
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  
-
-
+<p align="center">
+  Building modern web applications at <strong>ACA</strong> 🚗<br>
+  Studying <strong>Technical Degree in Programming at UNAB</strong> 🎓<br>
+  Creator of <a href="https://digitalrainreact.netlify.app/" target="_blank"><strong>Digital Rain Project 🌐</strong></a>
 </p>
 
+---
 
-------
+### 🧩 About Me
 
-[Miguel Miguez](https://github.com/MiguelMiguez)
+- 👨‍💻 I design and develop intuitive, responsive, and efficient user interfaces.
+- 🌱 Currently deepening my expertise in **frontend frameworks** and sharpening my programming foundations.
+- 🤝 Open to collaboration on **impactful frontend projects** that push boundaries.
+- 📫 Let's connect: **miguelmiguezangel@gmail.com**
 
-Last Edited on: 18/03/2025
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <!-- Agrega más tecnologías si querés -->
+</p>
+
+---
+
+### 📡 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguelmiguez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:miguelmiguezangel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
