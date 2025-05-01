@@ -8,7 +8,7 @@
 <p align="center">
   Building modern web applications at <strong>ACA</strong> 🚗<br>
   Studying <strong>Technical Degree in Programming at UNAB</strong> 🎓<br>
-  Creator of <a href="https://digitalrainreact.netlify.app/" target="_blank"><strong>Digital Rain Project 🌐</strong></a>
+  Creator of <a href="https://andespolygon.netlify.app/" target="_blank"><strong>AndesPolygon Project 🌐</strong></a>
 </p>
 
 ---
