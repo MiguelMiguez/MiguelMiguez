@@ -6,7 +6,7 @@
 <h3 align="center">🎨 Frontend Developer | Turning ideas into seamless web experiences</h3>
 
 <p align="center">
-  Building modern web applications at <strong>ACA</strong> 🚗<br>
+  Building modern web applications at <strong>ACA</strong> <br>
   Studying <strong>Technical Degree in Programming at UNAB</strong> 🎓<br>
   Creator of <a href="https://andespolygon.netlify.app/" target="_blank"><strong>AndesPolygon Project 🌐</strong></a>
 </p>
