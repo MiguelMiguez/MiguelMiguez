@@ -24,9 +24,6 @@
 
 ### ⚙️ Tech Stack & Tools
 
-## Tecnologías y Herramientas
-
-
 <div align="center">
   
   <!-- Frontend -->
@@ -53,6 +50,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
 ---
 
 ### 📡 Connect with Me
