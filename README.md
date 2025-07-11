@@ -15,9 +15,12 @@
 
 ### 🧩 About Me
 
-- 👨‍💻 I design and develop intuitive, responsive, and efficient user interfaces.
+- 👨‍💻 I design and develop intuitive, responsive, and efficient user interfaces for web and mobile platforms.
+- 📱 Specialized in **Front-End mobile application development** using **React Native and Expo**, with a focus on performance, scalability, and exceptional UX/UI design.
+- 🚗 Participated in the **functional design of a fleet management app**, contributing from wireframes to interactive prototypes to deliver comprehensive user experiences.
+- 🗄️ Experienced in **Oracle SQL database administration and analysis** for internal applications, ensuring data integrity and optimal performance.
 - 🌱 Currently deepening my expertise in **frontend frameworks** and sharpening my programming foundations.
-- 🤝 Open to collaboration on **impactful frontend projects** that push boundaries.
+- 🤝 Open to collaboration on **impactful frontend and mobile projects** that push boundaries and create meaningful solutions.
 - 📫 Let's connect: **miguelmiguezangel@gmail.com**
 
 ---
@@ -28,6 +31,8 @@
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
