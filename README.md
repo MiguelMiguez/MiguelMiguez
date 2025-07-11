@@ -15,10 +15,13 @@
 
 ### 🧩 About Me
 
-- 👨‍💻 I design and develop intuitive, responsive, and efficient user interfaces.
-- 🌱 Currently deepening my expertise in **frontend frameworks** and sharpening my programming foundations.
-- 🤝 Open to collaboration on **impactful frontend projects** that push boundaries.
-- 📫 Let's connect: **miguelmiguezangel@gmail.com**
+- 👨‍💻 Front-End mobile application developer using React Native and Expo, with a strong focus on performance, scalability, and UX/UI design.
+- 🏢 Currently working at Asociación de Cooperativas Argentinas, developing mobile and web applications.
+- 🗃️ Experienced in administering and analyzing Oracle SQL databases for internal applications.
+- 🎨 Building intuitive, responsive, and efficient user interfaces.
+- 🌱 Always learning and deepening my knowledge of frontend frameworks and programming fundamentals.
+- 🤝 Open to collaborating on impactful frontend projects that challenge boundaries.
+- 📫 Let's connect! miguelmiguezangel@gmail.com
 
 ---
 
