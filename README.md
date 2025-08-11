@@ -3,7 +3,7 @@
     <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif" alt="Argentina Parrot">
 </div>
 
-<h3 align="center">🎨 Frontend Developer | Turning ideas into seamless web experiences</h3>
+<h3 align="center">Frontend Developer | Turning ideas into seamless web experiences</h3>
 
 <p align="center">
   Building modern web applications at <strong>ACA</strong> <br>
@@ -15,13 +15,13 @@
 
 ### 🧩 About Me
 
-- 👨‍💻 Front-End mobile application developer using React Native and Expo, with a strong focus on performance, scalability, and UX/UI design.
-- 🏢 Currently working at Asociación de Cooperativas Argentinas, developing mobile and web applications.
-- 🗃️ Experienced in administering and analyzing Oracle SQL databases for internal applications.
-- 🎨 Building intuitive, responsive, and efficient user interfaces.
-- 🌱 Always learning and deepening my knowledge of frontend frameworks and programming fundamentals.
-- 🤝 Open to collaborating on impactful frontend projects that challenge boundaries.
-- 📫 Let's connect! miguelmiguezangel@gmail.com
+-  Front-End mobile application developer using React Native and Expo, with a strong focus on performance, scalability, and UX/UI design.
+-  Currently working at Asociación de Cooperativas Argentinas, developing mobile and web applications.
+-  Experienced in administering and analyzing Oracle SQL databases for internal applications.
+-  Building intuitive, responsive, and efficient user interfaces.
+-  Always learning and deepening my knowledge of frontend frameworks and programming fundamentals.
+-  Open to collaborating on impactful frontend projects that challenge boundaries.
+-  Let's connect! miguelmiguezangel@gmail.com
 
 ---
 
