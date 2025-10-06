@@ -3,7 +3,7 @@
     <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif" alt="Argentina Parrot">
 </div>
 
-<h3 align="center">Frontend Developer | Turning ideas into seamless web experiences</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   Building modern web applications at <strong>ACA</strong> <br>
