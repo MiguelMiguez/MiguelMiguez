@@ -3,7 +3,7 @@
     <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif" alt="Argentina Parrot">
 </div>
 
-<h3 align="center">Frontend Developer | React & React Native Specialist</h3>
+<h3 align="center">Frontend Developer | React & React Native</h3>
 
 <p align="center">
   Building scalable mobile & web applications at <strong>Asociación de Cooperativas Argentinas</strong> <br>
