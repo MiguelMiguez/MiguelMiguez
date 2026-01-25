@@ -16,7 +16,7 @@
 
 - 💼 **Frontend Developer** focused on efficient production, performance, and scalability
 - 📱 Specialized in **React Native** (Expo) and **React** (TypeScript) development
-- 🏢 Currently developing a comprehensive digital platform for fleet management at **Asociación de Cooperativas Argentinas** (2022 - Present)
+- 🏢 Currently developing at **Asociación de Cooperativas Argentinas** 
 - 🎨 Experienced in **UX/UI design** with Figma and building intuitive, responsive interfaces
 - 🗄️ Proficient in **Oracle SQL** and **PostgreSQL** database management and optimization
 - ⚡ Strong advocate for **clean code**, maintainable architectures, and agile methodologies
