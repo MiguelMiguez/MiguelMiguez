@@ -26,30 +26,6 @@
 
 ---
 
-### 💼 Professional Experience
-
-**Frontend Developer** @ Asociación de Cooperativas Argentinas  
-*2022 — Present*
-
-Developing an integrated digital platform for fleet management with mobile and web applications:
-
-**📱 Mobile App (React Native + Expo)**
-- Implemented corporate authentication with Microsoft SSO
-- Developed core features: vehicle listings, detailed views, history tracking, reservations, and user profiles
-- State management and REST API integration with internal services
-
-**💻 Web Platform (React + TypeScript)**
-- Built dynamic forms and assignment/maintenance logic
-- Integrated OpenAPI-documented REST APIs
-- Optimized navigation flows and filtering systems
-
-**🏗️ Architecture & Best Practices**
-- Modular feature-based architecture
-- Reusable component library development
-- Code quality enforcement with ESLint and version control workflows
-
----
-
 ### ⚙️ Tech Stack & Tools
 
 <div align="center">
