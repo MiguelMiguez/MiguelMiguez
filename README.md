@@ -59,14 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMiguez&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📡 Connect with Me
 
 <p align="center">
