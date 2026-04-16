@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1 align="center">Hi 👋, I'm Miguel</h1>
+    <h1 align="center">Hi 👋, I'm Miguel </h1>
     <img height="40" src="https://cdn3.emoji.gg/emojis/7644_argentinaparrot.gif" alt="Argentina Parrot">
 </div>
 
