@@ -18,7 +18,6 @@
 - 📱 Specialized in **React Native** (Expo) and **React** (TypeScript) development
 - 🏢 Currently developing at **Asociación de Cooperativas Argentinas** 
 - 🎨 Experienced in **UX/UI design** with Figma and building intuitive, responsive interfaces
-- 🗄️ Proficient in **Oracle SQL** and **PostgreSQL** database management and optimization
 - ⚡ Strong advocate for **clean code**, maintainable architectures, and agile methodologies
 - 🚀 Always learning and deepening my knowledge of modern frontend frameworks and best practices
 - 🤝 Open to collaborating on impactful projects that push technical boundaries
