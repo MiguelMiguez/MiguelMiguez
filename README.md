@@ -12,19 +12,6 @@
 
 ---
 
-### 🧩 About Me
-
-- 💼 **Frontend Developer** focused on efficient production, performance, and scalability
-- 📱 Specialized in **React Native** (Expo) and **React** (TypeScript) development
-- 🏢 Currently developing at **Asociación de Cooperativas Argentinas** 
-- 🎨 Experienced in **UX/UI design** with Figma and building intuitive, responsive interfaces
-- ⚡ Strong advocate for **clean code**, maintainable architectures, and agile methodologies
-- 🚀 Always learning and deepening my knowledge of modern frontend frameworks and best practices
-- 🤝 Open to collaborating on impactful projects that push technical boundaries
-- 📧 Let's connect! **miguelmiguezangel@gmail.com**
-
----
-
 ### ⚙️ Tech Stack & Tools
 
 <div align="center">
