@@ -7,7 +7,7 @@
 
 <p align="center">
   Building scalable mobile & web applications at <strong>Asociación de Cooperativas Argentinas</strong> <br>
-  Studying <strong>Technical Degree in Programming at UNAB</strong> 🎓<br>
+  Studying <strong>Technical Degree in Programming at UNAB</strong>🎓<br>
 </p>
 
 ---
